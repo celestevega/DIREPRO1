@@ -89,7 +89,7 @@
         <div class="buscador">
             <ul>
                 <li><a href="inscipciones.php">TODOS</a></li>
-                <li><a href="prove_ins.php?cat=PESCA" target="frame_cat" onclick="mostrar();">PESCA</a></li>
+                <li><a href="prove_ins.php?cat=PESCA" target="frame_cat" onclick="mostrar();">PESCAs</a></li>
                 <li><a href="prove_ins.php?cat=ARTESANIA" target="frame_cat" onclick="mostrar();">ARTESANIA</a></li>
                 <li><a href="prove_ins.php?cat=SERVICIOS" target="frame_cat" onclick="mostrar();">SERVICIOS</a></li>
                 <li><a href="prove_ins.php?cat=NUBE" target="frame_cat" onclick="mostrar();">NUBE</a></li>
